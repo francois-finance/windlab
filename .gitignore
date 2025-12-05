@@ -1,0 +1,27 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers de config locaux
+*.log
+*.tmp
+*.swp
+
+# macOS
+.DS_Store
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Données brutes
+*.txt
+*.lvm
+data_raw/
